@@ -1,2 +1,2 @@
 # simple_shell
-A C++ collaboration ALX project 
+A C collaboration ALX project 
